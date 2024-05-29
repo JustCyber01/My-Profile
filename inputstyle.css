@@ -31,3 +31,11 @@ h6{
     color: black;
     text-align: left;
 }
+button{
+    background-color: white;
+    color: black;
+    border-radius: 10px; /* rounded corners */
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+}
