@@ -1,0 +1,33 @@
+body{
+    background-color: lightblue;
+    background-size: 1px;
+}
+text{
+    color: black;
+    text-align: left;
+    size: 12px;
+}
+h1{
+    color:black;
+    text-align:center;
+   }
+h2{
+    color: black;
+    text-align: left;
+}
+h3{
+    color: black;
+    text-align: left;
+}
+h4{
+    color: black;
+    text-align: left;
+}
+h5{
+    color: black;
+    text-align: left;
+}
+h6{
+    color: black;
+    text-align: left;
+}
